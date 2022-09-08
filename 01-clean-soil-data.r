@@ -3,3 +3,4 @@
 # Kara Haberstock Tanoue
 
 df <- read.csv("test")
+library(ggplot2)
