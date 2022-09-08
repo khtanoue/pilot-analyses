@@ -5,3 +5,7 @@
 df <- read.csv("test")
 library(ggplot2)
 library(tidyverse)
+
+#Export clean data
+
+write.csv("clean.csv")
