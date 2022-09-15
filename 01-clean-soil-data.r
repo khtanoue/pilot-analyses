@@ -9,3 +9,8 @@ library(tidyverse)
 #Export clean data
 
 write.csv("clean.csv")
+
+# read in additional soil data
+df2 <- read.csv(test2)
+
+# write more cleaning script 
